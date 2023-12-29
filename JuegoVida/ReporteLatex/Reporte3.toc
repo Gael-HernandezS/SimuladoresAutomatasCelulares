@@ -1,0 +1,12 @@
+\renewcommand {\cftsecleader }{\cftdotfill {\cftdotsep }}
+\contentsline {section}{\numberline {1}Introducción}{2}{section.1}%
+\contentsline {section}{\numberline {2}Desarrollo}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Vista general de simulador}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Regla R(2,3,3,3) ó B3/S23}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Regla R(7,7,2,2) ó B2/S7}{15}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Código Fuente de Processing 4.3}{21}{section.3}%
+\contentsline {section}{\numberline {4}Código Fuente de MATLAB (Densidad y Log10)}{25}{section.4}%
+\contentsline {section}{\numberline {5}Código Fuente de MATLAB (Entropía de Shannon)}{26}{section.5}%
+\contentsline {section}{\numberline {6}Código Fuente de MATLAB (Atractores)}{26}{section.6}%
+\contentsline {section}{\numberline {7}Conclusiones}{26}{section.7}%
+\contentsline {section}{\numberline {8}Referencias}{27}{section.8}%
